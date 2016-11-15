@@ -1,5 +1,5 @@
 ---
+layout: site
 ---
-# my site
-Welcome!
+
  
