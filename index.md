@@ -1,5 +1,5 @@
 ---
 ---
  # my site
-Welcome
+Welcome!
  
