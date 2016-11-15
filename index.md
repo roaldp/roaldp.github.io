@@ -2,5 +2,5 @@
 layout: site
 ---
 hello
- [blog](/blog/_posts/2016-11-15-firstpost.md)
+ [blog](/blog/2016-11-15-firstpost.html)
  
